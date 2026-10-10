@@ -1,0 +1,37 @@
+PREDICTIVE MODEL PERFORMANCE
+----------------------------------------
+MAE: 1.110
+RMSE: 1.741
+R2: 0.877
+
+TOP FEATURE IMPORTANCES
+----------------------------------------
+hour_cos: 0.250
+capacity: 0.207
+tier_code: 0.173
+hour_sin: 0.159
+dow_sin: 0.061
+is_weekend: 0.057
+rain: 0.047
+temp_c: 0.030
+lon: 0.006
+lat: 0.006
+dow_cos: 0.003
+
+STATIONS FLAGGED FOR PROACTIVE REDISTRIBUTION (next hour): 24
+----------------------------------------
+E 7 St & Ave B: Restock (bikes running out) (pred net flow 4.8, checkouts 32.6, returns 27.8)
+E 65 St & 2 Ave: Restock (bikes running out) (pred net flow 3.8, checkouts 22.6, returns 18.8)
+Canal St & Rutgers St: Restock (bikes running out) (pred net flow 2.7, checkouts 20.8, returns 18.1)
+W 54 St & 9 Ave: Restock (bikes running out) (pred net flow 2.6, checkouts 19.9, returns 17.3)
+W 25 St & 6 Ave: Restock (bikes running out) (pred net flow 1.8, checkouts 20.8, returns 19.0)
+E 93 St & 2 Ave: Restock (bikes running out) (pred net flow 1.8, checkouts 33.4, returns 31.6)
+South St & Gouverneur Ln: Restock (bikes running out) (pred net flow 1.7, checkouts 19.3, returns 17.6)
+Riverside Dr & W 78 St: Restock (bikes running out) (pred net flow 1.7, checkouts 34.0, returns 32.3)
+E 6 St & Ave B: Restock (bikes running out) (pred net flow 1.7, checkouts 36.2, returns 34.5)
+3 St & 7 Ave: Restock (bikes running out) (pred net flow 1.2, checkouts 7.3, returns 6.0)
+Shakespeare Ave & W 169 St: Restock (bikes running out) (pred net flow 1.2, checkouts 3.6, returns 2.4)
+Walker St & Baxter St: Restock (bikes running out) (pred net flow 1.1, checkouts 20.5, returns 19.4)
+Grand Concourse & E 199 St: Pickup (docks filling up) (pred net flow -0.0, checkouts 4.9, returns 5.0)
+Jerome Ave & W Fordham Rd: Pickup (docks filling up) (pred net flow -0.1, checkouts 5.1, returns 5.2)
+W 50 St & 9 Ave: Pickup (docks filling up) (pred net flow -0.1, checkouts 6.6, returns 6.7)

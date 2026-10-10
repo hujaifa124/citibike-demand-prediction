@@ -1,0 +1,7 @@
+Active real stations analyzed: 75
+Total station-hour records (60-day history): 108,000
+Avg dock capacity: 31.5 (min 12, max 117)
+Avg live occupancy rate: 52.5%
+Stations currently <20% full (restock risk): 13
+Stations currently >80% full (overflow risk): 19
+Avg hourly demand intensity — weekday: 1.36 vs weekend: 1.48 (-8% higher on weekdays)
